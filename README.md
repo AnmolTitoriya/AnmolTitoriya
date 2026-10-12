@@ -8,5 +8,7 @@ I build REST APIs and event-driven integrations for healthcare, finance and logi
 - Frontend: Angular, React, TypeScript, Tailwind
 
 Portfolio: https://anmoltitoriya.github.io/profolio/
+
 LinkedIn: https://www.linkedin.com/in/anmoltitoriya/
+
 Email: anmol.titoriya0147@gmail.com
